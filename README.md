@@ -1,4 +1,4 @@
-Custom Breadcrumb
+#Custom Breadcrumb
 
 WordPress doesn't provide built-in breadcrumbs functionality. This plugin will add breadcrumbs to your WordPress site. You just have to perform following steps:
 
