@@ -6,4 +6,4 @@ WordPress doesn't provide built-in breadcrumbs functionality. This plugin will a
 2. Upload it to your wordpress and activate it.
 3. Call following function in your header.php, where you want to show Breadcrumbs on frontend.
   
-  <?php the_breadcrumb(); ?>
+  the_breadcrumb();
